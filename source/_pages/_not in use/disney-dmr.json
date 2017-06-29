@@ -1,0 +1,534 @@
+{
+    "emailType": {
+        "dmr": "true",
+        "dma": "",
+        "mc": "",
+        "us": "true",
+        "ca": ""
+    },
+    "previewText": "preview text goes here",
+    "personizalition": {
+        "date": "March 2017"
+    },
+    "social": {
+        "logo": {
+            "href": "http://www.disneymovierewards.go.com?cmp=DMR|NLC|MAR|US|Logo|2017|MAR|9",
+            "name": "DMR_Logo",
+            "src": "assets/images/-logos/DSMR16_DMR_NL_Current_logo-sm.png",
+            "alt": "[Disney Movie Rewards]",
+            "width": "270",
+            "height": "89"
+        },
+        "socialIcons": {
+            "facebook": {
+                "href": "https://www.facebook.com/disneymovierewards",
+                "name": "DMR_Social_FB"
+            },
+            "twitter": {
+                "href": "https://twitter.com/Disney_DMR",
+                "name": "DMR_Social_Twitter"
+            },
+            "instagram": {
+                "href": "https://www.instagram.com/disneymovies/ ",
+                "name": "DMR_Social_Instagram"
+            },
+            "pinterest": {
+                "href": "http://pinterest.com/dmrofficial/",
+                "name": "DMR_Social_Pinterest"
+            }
+        }
+    },
+    "points": {
+        "banner": {
+            "href": "http://www.disneymovierewards.go.com/rewards/browse/points?cmp=DMR|NLC|MAR|US|MyPoints|2017|MAR|9",
+            "name": "DMR_PointBalance_Header"
+        },
+        "thermometer": "true"
+    },
+    "hero": [
+        {
+            "sectionComment": "Hero",
+            "backgroundColor": "",
+            "offer": [
+                {
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/BeautyAndTheBeastOffer?cmp=DMR|NLC|BeautyAndTheBeastOffer|Regal|US|GetDetails|Hero|GWP|2017|March|9",
+                                    "name": "DMR_Offer_BATB",
+                                    "src": "assets/images/-marchNewsletter2017/NL_Hero-v1A.jpg",
+                                    "alt": "Get A Free Popcorn Link Accounts and Purchase BATB Tickets",
+                                    "width": "640",
+                                    "height": "855"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/BeautyAndTheBeastOffer?cmp=DMR|NLC|BeautyAndTheBeastOffer|Regal|US|GetDetails|Hero|GWP|2017|March|9",
+                                    "name": "DMR_Offer_BATB",
+                                    "src": "assets/images/-marchNewsletter2017/NL_Hero-v1B.jpg",
+                                    "alt": "Get A Free Popcorn Link Accounts and Purchase BATB Tickets",
+                                    "width": "640",
+                                    "height": "855"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "",
+                                    "name": "DMR_MarchMadness_Brackets",
+                                    "src": "assets/images/-marchNewsletter2017/NL_Hero-v2.jpg",
+                                    "alt": "Play Our Brackets Vote For Your Chance To Win Prizes",
+                                    "width": "640",
+                                    "height": "855"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                }
+            ]
+        }
+    ],
+    "otherOffers": [
+        {
+            "sectionComment": "Featured Offer",
+            "backgroundColor": "",
+            "offer": [
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_20.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/referral-points.htm?&c=%25%25CODES%25%25&cmp=DMR|NLC|MAR|MysteryPoints|2017|MAR|9|Top|US",
+                                    "name": "DMR_MysteryPoints_Top",
+                                    "src": "assets/images/-marchNewsletter2017/mystery-points.gif",
+                                    "alt": "BATB: Mystery Points - Expire April 5, 2017",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/Top-5-Picks-v2.gif",
+                                    "alt": "",
+                                    "height": "188"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/BeautyAndTheBeastOffer?cmp=DMR|NLC|BeautyAndTheBeastOffer|Regal|US|GetDetails|Module|GWP|2017|March|9",
+                                    "name": "DMR_Offer_BATB",
+                                    "src": "assets/images/-marchNewsletter2017/Featured-Offer-v2A.jpg",
+                                    "alt": "Get A Free Popcorn Link Accounts and Purchase BATB Tickets",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/BeautyAndTheBeastOffer?cmp=DMR|NLC|BeautyAndTheBeastOffer|Regal|US|GetDetails|Module|GWP|2017|March|9",
+                                    "name": "DMR_Offer_BATB",
+                                    "src": "assets/images/-marchNewsletter2017/Featured-Offer-v2B.jpg",
+                                    "alt": "Get A Free Popcorn Link Accounts and Purchase BATB Tickets",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_05.gif",
+                                    "alt": "",
+                                    "height": "188"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "",
+                                    "name": "DMR_MarchMadness_Brackets",
+                                    "src": "assets/images/-marchNewsletter2017/Featured-Offer-v1.jpg",
+                                    "alt": "Play Our Brackets Vote For Your Chance To Win Prizes",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_07.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "",
+                                    "name": "DMR_Rewards_DVD",
+                                    "src": "assets/images/-marchNewsletter2017/Hot-New-Rewards.jpg",
+                                    "alt": "Blue-ray Combo Packs, Movies, Posters & More",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_10.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/moana-printable-activities-6863?cmp=DMR|NLC|moana-printables|US|GetReward|Module|REWARD|2017|March|9",
+                                    "name": "DMR_Rewards_0",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-0-pts.jpg",
+                                    "alt": "Moana Printable Activites ",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/beauty-printable-activities-6864?cmp=DMR|NLC|BATB-printables|US|GetReward|Module|REWARD|2017|March|9",
+                                    "name": "DMR_Rewards_1-400",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-1-400-pts.jpg",
+                                    "alt": "BATB 25th Anniverary Collection Printable Activities",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/sw-rogue-one-rebel-dossier-8407?cmp=DMR|NLC|sw-rogue-one-rebel-dossier|GetReward|Module|REWARD|2017|March|9",
+                                    "name": "DMR_Rewards_401-700",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-401-700-pts.jpg",
+                                    "alt": "Star Wars: Rogue One Rebel Dossier",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/guardians-2-theatrical-poster-8393?cmp=DMR|NLC|GOTG-poster|GetReward|Module|US|REWARD|2017|March|9",
+                                    "name": "DMR_Rewards_701-1300",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-701-1301.jpg",
+                                    "alt": "Marvel's Guardians Of The Galaxy 2 Theatrical Poster",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/%20pop-moana-pua-8401?cmp=DMR|NLC|pop-moana-pua|GetReward|Module|US|REWARD|2017|March|9",
+                                    "name": "DMR_Rewards_1301-2800",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-1301-2800-pts.jpg",
+                                    "alt": "FUNKO Pop! Disney Moana: Moana & Pua",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/rewards/movie-certificate-6856?cmp=DMR|NLC|MAR|US|Rewards|MovieCertificate|2017|MAR|9",
+                                    "name": "DMR_Rewards_2801+",
+                                    "src": "assets/images/-marchNewsletter2017/Featrured-Reward-2801-pts.jpg",
+                                    "alt": "$10 Movie Certificate",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_13.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/sweepstakes/MoanaSweeps?cmp=DMR|NLC|MAR|US|SWPB|MoanaSweepstakes|2017|MAR|9",
+                                    "name": "DMR_Sweeps_Moana",
+                                    "src": "assets/images/-marchNewsletter2017/Sweepstakes-Moana-1.jpg",
+                                    "alt": "Moana Find Your Way Sweepstakes",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/sweepstakes/MoanaSweeps?cmp=DMR|NLC|MAR|US|SWPB|MoanaSweepstakes|2017|MAR|9",
+                                    "name": "DMR_Sweeps_Moana",
+                                    "src": "assets/images/-marchNewsletter2017/Sweepstakes-Moana-2.jpg",
+                                    "alt": "Moana Find Your Way Sweepstakes",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_16.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "https://www.disneymoviesanywhere.com/discover/how-far-go-multicultural?cmp=DMR|NLC|MAR|US|Moana|2017|MAR|9",
+                                    "name": "DMA_Watch_Moana",
+                                    "src": "assets/images/-marchNewsletter2017/From-Our-Friends-1.jpg",
+                                    "alt": "From Our Friends - Watch How Far I'll Go Around The World, From Moana",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        },
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/strange?cmp=DMR|NLC|MAR|US|BonusPts|DocStrange|2017|MAR|9",
+                                    "name": "DMA_GetMovie_DocStrange",
+                                    "src": "assets/images/-marchNewsletter2017/From-Our-Friends-2.jpg",
+                                    "alt": "Enjoy Bonus Points - When You Buy Marvel Studios' Doctor Strange ",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                },
+                {
+                    "head": [
+                        {
+                            "th": [
+                                {
+                                    "colspan": "2",
+                                    "src": "assets/images/-marchNewsletter2017/DSMR17_885083I_DMR_March_Newsletter_r3_1_US_20.gif",
+                                    "alt": "",
+                                    "height": "94"
+                                }
+                            ]
+                        }
+                    ],
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "href": "http://www.disneymovierewards.go.com/referral-points.htm?&c=%25%25CODES%25%25&cmp=DMR|NLC|MAR|MysteryPoints|2017|MAR|9|Bottom|US",
+                                    "name": "DMR_MysteryPoints_Bottom",
+                                    "src": "assets/images/-marchNewsletter2017/mystery-points.gif",
+                                    "alt": "BATB: Mystery Points - Expire April 5, 2017",
+                                    "width": "640",
+                                    "height": "460"
+                                }
+                            ]
+                        }
+                    ],
+                    "rule": {
+                        "colspan": "2",
+                        "height": "8",
+                        "backgroundColor": "#434343"
+                    }
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        }
+    ],
+    "legal": [
+        {
+            "footnote": "",
+            "rawHTML": "*Mystery Points value is predetermined and expires 4/5/17."
+        },
+        {
+            "footnote": "1. ",
+            "rawHTML": "Clicking on social media links will take you to the respective social media site, where such site's Privacy Policy and Terms of Use will apply."
+        },
+        {
+            "footnote": "2. ",
+            "rawHTML": "Disney Movie Rewards point balance is as of %%pointsasofdate%%."
+        },
+        {
+            "footnote": "3. ",
+            "rawHTML": "Requires Disney Movie Rewards and Regal Crown Club® memberships. Disney Movie Rewards and Regal Crown Club memberships are free to join. Offer good in the U.S. only. Void where prohibited. Purchase of adult ticket to Disney's Beauty and the Beast required. After linking Disney Movie Rewards and Regal Crown Club membership accounts customer will receive redemption details via email from Regal Theaters within 48 hours. One small popcorn per linked account. Credit for one small popcorn expires after 60 days. Offer expires 3/16/17."
+        },
+        {
+            "footnote": "4. ",
+            "rawHTML": "NO PURCHASE NECESSARY. Open to Disney Movie Rewards Members who are legal residents of the 50 US/DC, Puerto Rico and Canada (excl. QC) 13 years and older only. Sweepstakes starts 1/25/17, ends 3/31/17. For Official Rules, including eligibility, odds, free method of entry, and prize description, click <a href=\"http://www.disneymovierewards.go.com/promotions/sweepstakes/rules/MoanaSweeps\" name=\"DMR_Sweeps_Moana\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">HERE</span></a>."
+        },
+        {
+            "footnote": "5. ",
+            "rawHTML": "-Doctor Strange Legal-"
+        }
+    ],
+    "legalEmail": [
+        {
+            "rawHTML": "Visit <a href=\"http://disneymovierewards.com\" name=\"DMR_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMovieRewards.com</span></a> for eligibility requirements, details, Terms and Conditions, point collection and redemption details and expiration dates."
+        },
+        {
+            "rawHTML": "Visit <a href=\"https://www.disneymoviesanywhere.com/terms-and-conditions\" name=\"DMR_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMovieAnywhere.com</span></a> for eligibility requirements, details, and Terms and Conditions."
+        },
+        {
+            "rawHTML": "To ensure that you continue to receive emails from Disney Movie Rewards in your inbox, please add <a href=\"mailto:DisneyDVD@disney.dvdmailcenter.com\" name=\"DMR_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyDVD@disney.dvdmailcenter.com</span></a> to your address book."
+        },
+        {
+            "rawHTML": "You are receiving this commercial email because you requested to receive special offers and promotions from Disney Movie Rewards."
+        },
+        {
+            "rawHTML": "This email was sent to %%email%%."
+        },
+        {
+            "rawHTML": "<a href=\"http://www.cs.disney.dvdmailcenter.com/index.php?email=%%EMAIL%%\" name=\"DMR_Unsub\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">Unsubscribe</span></a> from all types of future commercial email from Disney Movie Rewards regarding its products or services."
+        }
+    ],
+    "otherLegal": [
+        {
+            "rawHTML": "<a href=\"https://disneyprivacycenter.com/\" name=\"DSN_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">Privacy Policy</span></a>"
+        },
+        {
+            "rawHTML": "Disney Movie Rewards, Attn: Consumer Relations, PO Box 1029, Neenah, WI 54957-1029 "
+        },
+        {
+            "rawHTML": "<a href=\"http://www.disneymovierewards.go.com/page/terms-and-conditions.htm?cmp=DMR|NLC|TERMS|2017|MAR|9|MAR|Test|US|Footer|Legal|\" name=\"DSN_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMovieRewards.com</span></a>"
+        },
+        {
+            "rawHTML": "© 2017 Disney <br />© 2017 & TM Lucasfilm Ltd.<br />© 2017 MARVEL"
+        }
+    ]
+}

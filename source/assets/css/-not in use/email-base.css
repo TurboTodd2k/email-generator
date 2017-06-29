@@ -1,0 +1,182 @@
+#
+outlook a {
+    padding: 0;
+}
+/* Force Outlook to provide a "view in browser" menu link. */
+
+body {
+    width: 100 % !important;
+    /* min-width: 600px; */
+    - webkit - text - size - adjust: 100 % ; - ms - text - size - adjust: 100 % ;
+    background - color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.ExternalClass {
+    width: 100 % ;
+}
+/* Force Hotmail to display emails at full width */
+
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+    line - height: 100 % ;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100 % !important;
+    line - height: 100 % !important;
+}
+/* End reset */
+/* Colors */
+
+.banner {
+    text - transform: uppercase;
+    padding: 8 px;
+}
+
+.green {
+    background - color: #c2ca64;
+}
+
+.blue {
+    background - color: #00aeef;
+    }
+
+    .orange {
+        background-color: # f7941d;
+}
+
+img {
+    outline: none;
+    text - decoration: none; - ms - interpolation - mode: bicubic;
+}
+
+a img {
+    border: none;
+}
+
+table td {
+    border - collapse: collapse;
+    padding: 0;
+}
+
+table {
+    border - collapse: collapse;
+    mso - table - lspace: 0 pt;
+    mso - table - rspace: 0 pt;
+}
+
+.show {
+    display: none;
+}
+/* Change mobile OS links to match style, keep outside of media query for tablets */
+
+[class = address - link] a, [class = date - link] a {
+    color: #333333 !important;
+        text-decoration: none !important;
+    }
+
+    [class= preview - text] a {
+    color: #ffffff!important;
+    text - decoration: none!important;
+}
+
+.appleLinksBlue a {
+    color: #7d7d7d !important;
+        text-decoration: none;
+    }
+/***************************************************
+****************************************************
+MOBILE TARGETING
+****************************************************
+***************************************************/
+
+    @media screen and (max-width: 480px),
+    screen and (max-device-width: 720px) and (-webkit-device-pixel-ratio: 2),
+    screen and (-webkit-device-pixel-ratio: 3) {
+        /* Formatting */
+        [class= full - width] {
+    width: 340 px!important;
+}
+[class = width - 300] {
+    width: 300 px!important;
+    padding: 0 10 px!important;
+    margin - bottom: 10 px!important;
+}
+img {
+    max - width: 100 % !important;
+    height: auto;
+    display: block;
+}
+/* HEADER */
+td[class = logo] {
+    padding - top: 4 px!important;
+}
+td[class = m - header - links] {
+    margin: 0!important;
+    padding: 0!important;
+    height: 11 px!important;
+}
+td[class = m - pre - wrap] {
+    width: 170 px!important;
+}
+span[class = "m-preheader"]: after {
+    content: "Preheader copy goes here";
+}
+span[class = "m-webview"]: after {
+        content: "View Web version";
+    }
+    /* MAIN */
+font[class = subhead] {
+        font - size: 15 px!important;
+    }
+    /* FOOTER */
+td[class = footer] a[class = em_pref] {
+    display: block!important;
+    width: auto!important;
+    font - size: 12 px!important;
+    margin - bottom: 8 px!important;
+}
+td[class = footer] a: last - child {
+        margin - bottom: 0!important;
+    }
+    /* Misc */
+    [class = hide] {
+        display: none!important;
+    }
+    [class = show] {
+        display: block!important;
+        margin: 0;
+        padding: 0;
+        overflow: visible!important;
+        width: auto!important;
+        max - height: inherit!important;
+    }
+    [class = show - inline] {
+        display: inline!important;
+        vertical - align: baseline!important;
+        margin: 0;
+        padding: 0;
+        overflow: visible!important;
+        width: auto!important;
+        max - height: inherit!important;
+    }
+td[class = "m-height"] {
+        height: autopx!important;
+    }
+    [class = height - 4] {
+        height: 4 px!important;
+    }
+    [class = height - 10] {
+        height: 10 px!important;
+    }
+    [class = height - 15] {
+        height: 15 px!important;
+    }

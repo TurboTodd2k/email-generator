@@ -1,0 +1,21 @@
+       #outlook a {
+           padding: 0;
+       }
+       /* Force Outlook to provide a "view in browser" menu link. */
+
+       .ExternalClass {
+           width: 100%;
+       }
+       /* Forces Outlook.com to display emails at full width */
+
+       .ExternalClass,
+       .ExternalClass p,
+       .ExternalClass span,
+       .ExternalClass font,
+       .ExternalClass td,
+       .ExternalClass div {
+           line-height: 100%;
+       }
+       /* Forces Outlook.com to display normal line spacing, here is more on that: http://www.emailonacid.com/forum/viewthread/43/ */
+
+

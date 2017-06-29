@@ -1,0 +1,22 @@
+---
+styleguide: <%= gpl.styleguide %>
+colors: <%= gpl.colors %>
+filePath: ? - ext
+description: filePath + .md
+---
+
+{{#if styleguide}}
+	{{{md "source/_patterns/00-atoms/01-global/colors.md"}}}
+{{/if}}
+
+<!--  -->
+{{#each colors}}
+<ul class="colorSwatches">
+	<h3>{{colorTitle}}</h3>
+	{{#each colorList}}
+		<li class="{{colorClass}}">
+	        <span class="sg-label">{{colorHex}}</span>
+	    </li>
+	{{/each}}
+</ul>
+{{/each}}

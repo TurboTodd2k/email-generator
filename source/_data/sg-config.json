@@ -1,0 +1,68 @@
+{
+  "styleguide": "true",
+  "colors": [
+    {
+      "colorTitle": "brand colors",
+      "colorList": [
+        {
+          "colorClass": "colorBrand",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandDark",
+          "colorHex": ""
+        }
+      ]
+    },
+    {
+      "colorTitle": "brand darker",
+      "colorList": [
+        {
+          "colorClass": "colorBrandDark10",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandDark20",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandDark30",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandDark40",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandDark50",
+          "colorHex": ""
+        }
+      ]
+    },
+    {
+      "colorTitle": "brand lighter",
+      "colorList": [
+        {
+          "colorClass": "colorBrandLight10",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandLight20",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandLight30",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandLight40",
+          "colorHex": ""
+        },
+        {
+          "colorClass": "colorBrandLight50",
+          "colorHex": ""
+        }
+      ]
+    }
+  ]
+}

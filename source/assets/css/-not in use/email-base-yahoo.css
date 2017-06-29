@@ -1,0 +1,11 @@
+ @media screen and (max-width: 480px),
+    screen and (max-device-width: 720px) and (-webkit-device-pixel-ratio: 2),
+    screen and (-webkit-device-pixel-ratio: 3) {
+        /* Formatting */
+		[class=socialHeadingIcon] {
+	        width: 14% !important
+	    }
+	    [class=socialHeadingNumber] {
+	        width: 11% !important
+	    }
+}

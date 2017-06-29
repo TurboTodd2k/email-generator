@@ -1,0 +1,96 @@
+{
+    "config": {
+        "emailWidth": "640",
+        "emailBackgroundColor": "#dddddd",
+        "emailContentColor": "#ffffff",
+        "emailTitle": "responsive test"
+    },
+    "emailType": {},
+    "oneColumn": {
+        "bkgndColor": "blue",
+        "tr": [
+            {
+                "td": [
+                    {
+                        "fontClass": "testFont",
+                        "layoutClass": "testLayout",
+                        "bkgndColor": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    "textRight": {
+        "bkgndColor": "green",
+        "leftCol": {
+            "tr": [
+                {
+                    "td": [
+                        {
+                            "fontClass": "testFont",
+                            "layoutClass": "testLayout",
+                            "bkgndColor": "red",
+                            "img": {
+                                "class": "",
+                                "href": "#",
+                                "src": "assets/images/-fpo/responsive4.jpg",
+                                "alt": "thing",
+                                "width": "267"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "rightCol": {
+            "tr": [
+                {
+                    "td": [
+                        {
+                            "fontClass": "testParagraph",
+                            "layoutClass": "testLayout",
+                            "bkgndColor": "purple",
+                            "cta": {
+                                "ctaWidth": "100",
+                                "ctaPosition": "right",
+                                "ctaBkgnd": "https://www.emailonacid.com/images/blog_images/Emailology/2013/free_template_1/blue_back.jpg",
+                                "bkgndColor": "",
+                                "ctaStyle": "primaryCta",
+                                "href": "#",
+                                "ctaCall": "Read More"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "twoColTOE": {
+        "bkgndColor": "green",
+        "leftCol": {
+            "tr": [
+                {
+                    "td": [
+                        {
+                            "img": {
+                                "class": "",
+                                "href": "#",
+                                "src": "https://www.emailonacid.com/images/blog_images/Emailology/2013/responsive4.jpg",
+                                "alt": "thing"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "rightCol": {
+            "tr": [
+                {
+                    "td": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    }
+}

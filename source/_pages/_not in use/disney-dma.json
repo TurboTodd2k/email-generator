@@ -1,0 +1,335 @@
+{
+     "emailType": {
+        "dmr": "true",
+        "dma": "",
+        "mc": "",
+        "us": "true",
+        "ca": ""
+    },
+    "previewText": "preview text goes here",
+    "social": {
+        "logo": {
+            "href": "https://www.disneymoviesanywhere.com/?gd=true&cmp=DMA|DMR|EMC|moana|2017|Feb|21|LearnMore|Logo",
+            "name": "DMA_Logo",
+            "src": "assets/images/-logos/disneyanywherereal.gif",
+            "alt": "DMA Member News"
+        },
+        "socialIcons": {
+            "facebook": {
+                "href": "https://www.facebook.com/DisneyMoviesAnywhere",
+                "name": "DMA_Social_FB"
+            },
+            "twitter": {
+                "href": "https://twitter.com/disneyanywhere",
+                "name": "DMA_Social_Twitter"
+            },
+            "instagram": {
+                "href": "https://www.instagram.com/disneymovies/",
+                "name": "DMA_Social_Instagram"
+            },
+            "tumblr": {
+                "href": "http://disneymoviesanywhere.tumblr.com/",
+                "name": "DMA_Social_Tumbler"
+            }
+        }
+    },
+    "hero": [
+
+        {
+            "sectionComment": "Free Track",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/moana?gd=true&cmp=DMA|DMR|EMC|moana|2017|Feb|21|GetMovie|GetReward|Hero",
+                    "name": "DMA_GetMovie_Moana",
+                    "src": "assets/images/-feburary2017DMA/hero-1.gif",
+                    "alt": "Free Track With Movie Purchase",
+                    "width": "640",
+                    "height": "412"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Free Track",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/moana?gd=true&cmp=DMA|DMR|EMC|moana|2017|Feb|21|GetMovie|GetReward|Hero",
+                    "name": "DMA_GetMovie_Moana",
+                    "src": "assets/images/-feburary2017DMA/hero-2.gif",
+                    "alt": "Free Track With Movie Purchase",
+                    "width": "640",
+                    "height": "196"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Get Movie",
+            "backgroundColor": "",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/moana?gd=true&cmp=DMA|DMR|EMC|moana|2017|Feb|21|GetMovie|GetReward|HeroButton|BuyMovie",
+                    "name": "DMA_GetMovie_Moana",
+                    "src": "assets/images/-feburary2017DMA/hero-3.gif",
+                    "alt": "Free Track With Movie Purchase",
+                    "width": "640",
+                    "height": "244"
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        },
+        {
+            "sectionComment": "Find Your Way to Special Bonus in Discover",
+            "backgroundColor": "",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/discover/?gd=true&cmp=DMA|DMR|EMC|moana|2017|Feb|21|WatchVideo",
+                    "name": "DMA_WatchVideo_Moana",
+                    "src": "assets/images/-feburary2017DMA/video.gif",
+                    "alt": "Find Your Way to Special Bonus in Discover"
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        },
+        {
+            "sectionComment": "Get The Soundtrack for $7.50 ",
+            "backgroundColor": "",
+            "offer": [
+                {
+                    "href": "http://www.disneymovierewards.go.com/promotions/special-offers/moanaST?cmp=DMR|DMA|EMC|PWP|GetDetails|Feb|21|2017|Moana",
+                    "name": "DMA_PWP_Moana",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Soundtrack.jpg",
+                    "alt": "Get The Soundtrack for $7.50 "
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        }
+    ],
+    "row": [
+        {
+            "sectionComment": "Movies",
+            "backgroundColor": "#a5e8e2",
+            "header": {
+                "colspan": "2",
+                "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Now_On_Sale.jpg",
+                "alt": "Now On Sale, Must-Have Academy Award Winners",
+                "height": "140"
+            },
+            "tableCell": [
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Inside_Out.jpg",
+                    "alt": "Get Movie Inside Out",
+                    "width": "320",
+                    "height": "389"
+                },
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Up.jpg",
+                    "alt": "Get Movie Up",
+                    "width": "320",
+                    "height": "389"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Buttons",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/inside-out?gd=true&redeem=true&cmp=DMA|DMR|EMC|inside-out|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_InsideOut",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Left.jpg",
+                    "alt": "Get Movie Inside Out",
+                    "width": "320",
+                    "height": "107"
+                },
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/up?gd=true&redeem=true&cmp=DMA|DMR|EMC|up|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_Up",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Right.jpg",
+                    "alt": "Get Movie Up",
+                    "width": "320",
+                    "height": "107"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Movies",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Frozen.jpg",
+                    "alt": "Get Movie Frozen",
+                    "width": "320",
+                    "height": "389"
+                },
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Finding_Nemo.jpg",
+                    "alt": "Get Movie Finding Nemo",
+                    "width": "320",
+                    "height": "389"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Buttons",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/frozen?gd=true&redeem=true&cmp=DMA|DMR|EMC|frozen|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_Frozen",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Left.jpg",
+                    "alt": "Get Movie Frozen",
+                    "width": "320",
+                    "height": "107"
+                },
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/finding-nemo?gd=true&redeem=true&cmp=DMA|DMR|EMC|finding-nemo|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_FindingNemo",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Right.jpg",
+                    "alt": "Get Movie Finding Nemo",
+                    "width": "320",
+                    "height": "107"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Movies",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Big_Hero.jpg",
+                    "alt": "Get Movie Big Hero 6",
+                    "width": "320",
+                    "height": "389"
+                },
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Mary_Poppins.jpg",
+                    "alt": "Get Movie Mary Poppins",
+                    "width": "320",
+                    "height": "389"
+                }
+            ]
+        },
+        {
+            "sectionComment": "Buttons",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/big-hero-6?gd=true&redeem=true&cmp=DMA|DMR|EMC|big-hero-6|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_BigHero6",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Left.jpg",
+                    "alt": "Get Movie Big Hero 6",
+                    "width": "320",
+                    "height": "107"
+                },
+                {
+                    "href": "https://www.disneymoviesanywhere.com/movie/mary-poppins?gd=true&redeem=true&cmp=DMA|DMR|EMC|mary-poppins|2017|Feb|21|GetMovie|ModuleButton|MoanaEHV|AwardWinnersSale",
+                    "name": "DMA_Get Movie_MaryPoppins",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Button_Right.jpg",
+                    "alt": "Get Movie Mary Poppins",
+                    "width": "320",
+                    "height": "107"
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        },
+        {
+            "sectionComment": "Oscars",
+            "backgroundColor": "#cccccc",
+            "offer": [
+                {
+                    "href": "",
+                    "name": "",
+                    "src": "assets/images/-feburary2017DMA/DSMR17_882460I_DMA_Oscars.jpg",
+                    "alt": "The Oscars",
+                    "width": "640",
+                    "height": "360"
+                }
+            ],
+            "rule": {
+                "colspan": "2",
+                "height": "8",
+                "backgroundColor": "#cccccc"
+            }
+        }
+    ],
+    "legal": [
+        {
+            "footnote": "",
+            "rawHTML": "All transactions subject to applicable license Terms and Conditions. "
+        },
+        {
+            "footnote": "1. ",
+            "rawHTML": "Clicking on social media links will take you to the respective social media site, where such site's Privacy Policy and Terms of Use will apply."
+        },
+        {
+            "footnote": "2. ",
+            "rawHTML": "Purchase of <em>Moana</em> digitally through Disney Movies Anywhere required. Digital purchase through Disney Movies Anywhere requires Disney Movies Anywhere membership and successful linking of Disney Movies Anywhere and a participating provider account. (Disney Movies Anywhere is open to US residents age 13+. All transactions subject to applicable license terms and conditions. Visit <a href=\"http://www.disneymoviesanywhere.com/terms-and-conditions\" name=\"DMA_Legal_Website\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMoviesAnywhere.com</span></a> for eligibility requirements, details and terms and conditions.) Offer valid in the US only. Void where prohibited. Limited to 1 download per person per purchase. Offer expires at midnight (PST) on March 3, 2017. The download does not have any cash, refund or exchange value and is not transferable or redeemable for other goods or services. It will not be replaced if lost or stolen. You must have appropriate working hardware, software and Internet access to accept this offer. Telecommunications charges and/or Internet access charges may apply and are the user¹s sole responsibility. Download is offered on an as-is basis without representations or warranties. By accepting this download, you are agreeing that you accept this offer at your sole risk. Persons under the age of 13 are not authorized to accept the download without permission of a parent or guardian. We assume no liability for any unauthorized use including without limitation any use by a minor."
+        },
+        {
+            "footnote": "3. ",
+            "rawHTML": "Purchase of Disney’s <em>Moana</em> digitally through Disney Movies Anywhere required. (Digital purchase through Disney Movies Anywhere requires Disney Movies Anywhere membership and successful linking of Disney Movies Anywhere and a participating provider account. Disney Movies Anywhere is open to US residents age 13+. All transactions subject to applicable license terms and conditions. Visit <a href=\"http://www.disneymoviesanywhere.com/terms-and-conditions\" name=\"DMA_Legal_Website\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMoviesAnywhere.com</span></a> for eligibility requirements, details and terms and conditions.) Disney Movie Rewards membership required; membership is free. Offer good in 50 United States and (D.C.) only. Offer expires 3/3/18. Limited quantities."
+        },
+        {
+            "footnote": "4. ",
+            "rawHTML": "Offer valid 2/14/17 through 2/27/17. Sale price applies to HD only. Sale price, title and offer availability varies by participating provider."
+        },
+        {
+            "footnote": "5. ",
+            "rawHTML": "<em>Inside Out</em>: 2015; Best Animated Feature Film – <em>Big Hero 6</em>: 2014; Best Animated Feature Film – <em>Frozen</em>: 2013; Best Animated Feature Film, Best Original Song – <em>Up</em>: 2009; Best Animated Feature Film, Best Original Song – <em>Finding Nemo</em>: 2003; Best Animated Feature Film – <em>Mary Poppins</em>: 1964; Best Actress in a Leading Role (Julie Andrews), Best Film Editing (Cotton Warburton), Best Special Visual Effects, Best Original Song. "
+        },
+        {
+            "rawHTML": "Visit <a href=\"http://www.disneymoviesanywhere.com/terms-and-conditions\" name=\"DMA_Legal_Website\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMoviesAnywhere.com</span></a> for eligibility requirements, details, and Terms and Conditions."
+        },
+        {
+            "rawHTML": "To ensure that you continue to receive emails from Disney Movies Anywhere in your inbox, please add <a href=\"mailto:whatsnew@disneymoviesanywhereemail.com\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">whatsnew@disneymoviesanywhereemail.com</span></a> to your address book."
+        },
+        {
+            "rawHTML": "You are receiving this commercial email because you requested to receive special offers and promotions from Disney Movies Anywhere."
+        },
+        {
+            "rawHTML": "This email was sent to %%email%%."
+        },
+        {
+            "rawHTML": "<a href=\"http://www.cs.disneymoviesanywhereemail.com/index.php?email=%%EMAIL%%\" name=\"DMA_Unsub\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">Unsubscribe</span></a> from all types of future commercial email from Disney Movies Anywhere regarding its products or services."
+        },
+        {
+            "rawHTML": "<a href=\"https://disneyprivacycenter.com/\" name=\"DCM_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">Privacy Policy</span></a>"
+        },
+        {
+            "rawHTML": "Disney Movies Anywhere, Attn: Consumer Relations, P.O. Box 3100, Neenah, WI 54957-3100"
+        },
+        {
+        	"rawHTML": "<a href=\"http://www.disneymoviesanywhere.com\" name=\"DMA_Legal\" style=\"color: #808285;\" target=\"_blank\"><span style=\"color:#808285;text-decoration:underline;\">DisneyMoviesAnywhere.com</span></a>"
+        },
+        {
+            "rawHTML": "© 2017 Disney<br />© 2017 Disney·Pixar<br />© 2017 Academy of Motion Picture Arts and Sciences"
+        }
+    ]
+}

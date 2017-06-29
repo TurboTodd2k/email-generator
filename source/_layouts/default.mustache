@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    {{> head }}
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="font-family: Georgia, Times, serif">
+    <!-- for Yahoo -->
+    <link rel="stylesheet" type="text/css" href="assets/css/email-yahoo-header.css" data-embed="true">
+    <!-- Wrapper -->
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+            <td width="100%" valign="top" bgcolor="{{page.config.emailContentColor}}" style="padding-top:20px">
+                {{> body }}
+            </td>
+        </tr>
+    </table>
+    <!-- End Wrapper -->
+    <div style="display:none; white-space:nowrap; font:15px courier; color:#ffffff;">
+        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    </div>
+</body>
+
+</html>

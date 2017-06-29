@@ -1,0 +1,50 @@
+{
+  "name": "qs-email-generator",
+  "version": "0.23.3",
+  "description": "for building emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/QuigleySimpson/qs-email-generator"
+  },
+  "author": "Todd Kidder",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.7.0",
+    "cssnano": "^3.10.0",
+    "grunt": "^1.0.1",
+    "grunt-assemble": "^0.5.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-ftp-push": "^1.2.0",
+    "grunt-html": "^8.4.0",
+    "grunt-img-find-and-copy": "^1.0.1",
+    "grunt-localscreenshots": "^1.0.0",
+    "grunt-mailgun": "^2.0.1",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-prettify": "^0.4.0",
+    "grunt-processhtml": "^0.4.1",
+    "grunt-replace": "^1.0.1",
+    "grunt-sass": "^2.0.0",
+    "grunt-unclassify": "0.0.5",
+    "grunt-uncss": "^0.6.1",
+    "grunt-version": "^1.1.1",
+    "grunt-w3c-html-validation": "^0.1.9",
+    "postcss-style-guide": "^0.13.0",
+    "time-grunt": "^1.4.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "grunt-juice": "git+https://9a19e04565fd5e171b2ab70430ecee0d4cd62fea:x-oauth-basic@github.com/QuigleySimpson/grunt-juice.git"
+  }
+}

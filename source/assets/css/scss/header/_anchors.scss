@@ -1,0 +1,22 @@
+a img {
+    border: 0;
+}
+
+/* Change mobile OS links to match style, keep outside of media query for tablets */
+
+[class=address-link] a,
+[class=date-link] a,
+a[href^="x-apple-data-detectors:"] {
+    color: inherit;
+    text-decoration: inherit;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+
+/* otherwise slap a color on a classed link */
+  .appleLinksBlue a {
+    color: #7d7d7d !important;
+    text-decoration: none;
+}

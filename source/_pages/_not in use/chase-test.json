@@ -1,0 +1,37 @@
+{
+    "emailType": [
+        "dma"
+    ],
+    "title": "Sutter email",
+    "previewText": "Email Pre header - you are receiving this email becouse Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a odio gravida leo euismod sollicitudin.",
+    "screenBackgroundColor": "#eeeeee",
+    "contentBackgroundColor": "#ffffff",
+
+    "otherRows": [
+        {
+            "sectionComment": "Movies",
+            "offer": [
+                {
+                    "rowBackgroundColor": "",
+                    "tr": [
+                        {
+                            "rowStyle": "text-align: center;",
+                            "td": [
+                                {
+                                    "cellStyle": "",
+                                    "img": {
+                                        "src": "assets/images/-chase/Sapphire17_892527_ECM_Anniversary_Email_Preferred_v2_r0.jpg",
+                                        "height": "1154",
+                                        "width": "600",
+                                        "alt": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}

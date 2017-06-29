@@ -1,0 +1,42 @@
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" class="container" style="font-size: 0;">
+    <tr>
+        <td align="center">
+            <table width="640" cellpadding="0" cellspacing="0" border="0" align="center" class="full-width">
+                {{#if page.personizalition}}
+                    {{> disney-personizalition page.personizalition}}
+                {{else}}
+                    <tr bgcolor="#f2f2f2">
+                        <td class="m-height">&nbsp;</td>
+                    </tr>
+                {{/if}}
+
+                {{> disney-social page.social}}
+
+                {{#if page.points.banner}}
+                    {{> disney-points-banner page.points.banner}}
+                {{/if}}
+
+                {{#if page.points.thermometer}}
+                    {{> disney-points-thermometer }}
+                {{/if}}
+
+                <!-- hero -->
+                {{#forEach page.hero}}
+                    {{> disney-generic-content-row-2}}
+                {{/forEach}}
+
+                <!-- other offers -->
+                {{#forEach page.otherOffers}}
+                    {{> disney-generic-content-row-2}}
+                {{/forEach}}
+
+                {{>disney-legal-section}}
+            </table>
+        </td>
+    </tr>
+</table>
+<!-- GMAIL app fix. Do not remove -->
+<div style="display:none; white-space:nowrap; font:15px courier; color:#ffffff;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<!-- Start RealTime Email Embed - Patents Pending -->
+<img src="https://disneymovierewards.liveclicker.com/service/rte?kind=duration&account_id=5744&campaign_id=1860666631&dim0=%%LIVECLICKER_ID%%" style="width:0px; height:0px;" />
+<!-- End RealTime Email Embed - Patents Pending -->

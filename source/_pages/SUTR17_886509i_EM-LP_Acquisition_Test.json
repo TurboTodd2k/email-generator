@@ -1,0 +1,179 @@
+{
+    "emailType": [
+        "dma"
+    ],
+    "title": "Sutter email",
+    "previewText": "Email Pre header - you are receiving this email becouse Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a odio gravida leo euismod sollicitudin.",
+    "screenBackgroundColor": "#eeeeee",
+    "contentBackgroundColor": "#ffffff",
+    "hero": [
+        {
+            "sectionComment": "Movies",
+            "backgroundColor": "#a5e8e2",
+            "offer": [
+                {
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "heading": {
+                                        "headingTag": "h2",
+                                        "headingClass": "",
+                                        "text": "First Name, here when you need us."
+                                    },
+                                    "rawHTML": "<p>Lorem ipsum dolor sit amet, Service Location near you adipiscing elit. Vestibulum molestie finibus sodales. Aenean urna nisl, posuere quis enim ac, euismod condimentum turpis. Etiam sagittis interdum ex.</p>"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tr": [
+                        {
+                            "td": [
+                                {
+                                    "img": {
+                                        "src": "assets/images/map-cropped.jpg",
+                                        "height": "196",
+                                        "width": "640",
+                                        "alt": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "aboveFoldCTA": {
+        "offer": [
+            {
+                "tr": [
+                    {
+                        "rowStyle": "text-align: center;",
+                        "td": [
+                            {
+                                "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                "heading": {
+                                    "headingTag": "h2",
+                                    "headingClass": "",
+                                    "text": "Helping You Stay Healthy in Stockton"
+                                },
+                                "rawHTML": "<p>Sutter Health has been part of the community for other 30 years.</p>",
+                                "anchor": [
+                                    {
+                                        "class": "btn custom-btn btnPrimaryOrange",
+                                        "cta": "Find Your Stockton Doctor",
+                                        "address": "#"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "otherRows": [
+        {
+            "sectionComment": "Movies",
+            "offer": [
+                {
+                    "rowBackgroundColor": "",
+                    "tr": [
+                        {
+                            "rowStyle": "text-align: center;",
+                            "td": [
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "img": {
+                                        "src": "assets/images/san-jose-mother-daughter.jpg",
+                                        "height": "212",
+                                        "width": "320",
+                                        "alt": ""
+                                    }
+                                },
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "rawHTML": "<p>Whether you’re looking for a new family doctor or need more immediate care, the Sutter Health team is here when and how you need us.</p><p><a href=\"\">Family Medicine &gt;&gt;</a> <br><a href=\"\">Adult Primary Care &gt;&gt;</a><br><a href=\"\">Pediatrics Primary Care &gt;&gt;</a></p>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionComment": "Movies",
+            "offer": [
+                {
+                    "rowBackgroundColor": "#25787e",
+                    "tr": [
+                        {
+                            "rowStyle": "text-align: center;color:#ffffff;",
+                            "td": [
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "heading": {
+                                        "headingTag": "h2",
+                                        "headingClass": "",
+                                        "text": "Primary Care At Sutter"
+                                    },
+                                    "rawHTML": "<p style=\"line-height:1.15;margin-top:0;\">Statement about how great Sutter primary care is, reinforcing the RTB’s; quality, convince and community.</p> <p style=\"line-height:1.15;margin-top:0;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie.</p>"
+                                },
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "rawHTML": "<p style=\"line-height:1.15;margin-top:0;\">Around the corner, some quick items to see your doctor about.</p> <a href=\"\" style=\"color: white;\">Allergies &gt;&gt;</a> <br> <a href=\"\" style=\"color: white;\">Camp Physicals &gt;&gt;</a> <br> <a href=\"\" style=\"color: white;\">Yearly Check Up &gt;&gt;</a>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionComment": "Movies",
+            "offer": [
+                {
+                    "rowBackgroundColor": "",
+                    "tr": [
+                        {
+                            "rowStyle": "text-align: center;",
+                            "td": [
+                                {
+                                    "heading": {
+                                        "headingTag": "h2",
+                                        "headingClass": "",
+                                        "text": "Patient Stories"
+                                    },
+                                    "rawHTML": "<p style=\"line-height:1.15;margin-top:0;\">Lorem ipsum dolor sit amet, nt. Nullam vehicula.</p> <a href=\"\"><img src=\"\" width=\"380\" height=\"200\" style=\"background-color: grey;\"></a> <br> <a href=\"#\" style=\"display: inline-block;color: white; border: 0;background-color: #f68026;color:white;border-radius: 10px;padding: .75em .95em;text-decoration:none;\">View More</a>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sectionComment": "Movies",
+            "offer": [
+                {
+                    "rowBackgroundColor": "",
+                    "tr": [
+                        {
+                            "rowStyle": "text-align: center;",
+                            "td": [
+                                {
+                                    "cellStyle": "padding-left: 15px;padding-right: 15px;line-height:1.15;",
+                                    "rawHTML": "<h2 style=\"margin-top: 0;\">Urgent Care &amp; Walk In Care Clinics Near You</h2> <p>If you have a cough or an itch that needs to looked at - our walk in care and Urgent care clinics are here where you need us. If it is an Emergency please contact 911 or proceed to your closest emergency room. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor placerat feugiat. </p> <a href=\"#\" style=\"display: inline-block;color: white; border: 0;background-color: #f68026;color:white;border-radius: 10px;padding: .75em .95em;text-decoration:none;\">View The Graph</a>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

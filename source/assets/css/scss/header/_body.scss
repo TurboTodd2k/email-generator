@@ -1,0 +1,14 @@
+    body {
+        width: 100%;
+        background-color: #ffffff;
+        margin: 0;
+        padding: 0;
+        -webkit-font-smoothing: antialiased;
+        font-family: Georgia, Times, serif
+    }
+
+    body {
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: none;
+    }
+    /* Prevents Webkit and Windows Mobile platforms from changing default font sizes. */
